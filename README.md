@@ -6,7 +6,7 @@ A quick start project that helps you to create the Syncfusion Angular 4 Schedule
 
 ## Scheduler features covered in this Project
 
-This is an Angular 4 project created using [Angular CLI](https://github.com/angular/angular-cli) 1.410. The Scheduler features included in this project are as follows.
+This is an Angular 4 project created using [Angular CLI](https://github.com/angular/angular-cli) 1.4.10. The Scheduler features included in this project are as follows.
 * Angular 4 Scheduler displaying basic views with appointments loaded as JSON data.
 * Drag and resize actions enabled for events by default.
 * Setting current date and view for scheduler.
