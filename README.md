@@ -28,7 +28,7 @@ cd angular-4-scheduler
 ```
 
 ## Installing
-Once done with downloading, next you need to install the necessay packages required to run this application locally. The `npm install` command will install all the needed angular packages into your current project and to do so, run the below command.
+Once done with downloading, next you need to install the necessary packages required to run this application locally. The `npm install` command will install all the needed angular packages into your current project and to do so, run the below command.
 
 ```
 npm install
