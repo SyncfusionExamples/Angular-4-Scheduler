@@ -12,6 +12,11 @@ This is an Angular 4 project created using [Angular CLI](https://github.com/angu
 * Setting current date and view for scheduler.
 * Setting specific timezone on scheduler.
 
+## Project pre-requisites
+Make sure that you have the compatible versions of TypeScript and Angular in your machine before starting to work on this project.
+* Angular 4+
+* TypeScript 2.6+
+
 ## How to run this application?
 To run this application, you need to first clone the `Angular-4-Scheduler` repository and then navigate to its appropriate path where it has been located in your system.
 
